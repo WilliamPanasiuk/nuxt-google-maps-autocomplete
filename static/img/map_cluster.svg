@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="40"
+   height="40"
+   viewBox="0 0 40 40"
+   fill="none"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="map_cluster.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="13.582908"
+     inkscape:cx="9.3131752"
+     inkscape:cy="23.595831"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="532"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="-7.6566816,26.232698"
+       orientation="0,-1"
+       id="guide3796" />
+    <sodipodi:guide
+       position="19.436192,11.581932"
+       orientation="1,0"
+       id="guide4520" />
+    <sodipodi:guide
+       position="38.136164,34.846464"
+       orientation="0,-1"
+       id="guide4674" />
+    <sodipodi:guide
+       position="35.559396,17.324443"
+       orientation="0,-1"
+       id="guide4714" />
+  </sodipodi:namedview>
+  <defs
+     id="defs8">
+    <pattern
+       id="pattern0"
+       patternContentUnits="objectBoundingBox"
+       width="1"
+       height="1">
+      <use
+         xlink:href="#image0"
+         transform="scale(0.0188679)"
+         id="use4" />
+    </pattern>
+    <image
+       id="image0"
+       width="53"
+       height="53"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADUAAAA1CAYAAADh5qNwAAAE5UlEQVRogc2af2hWVRjHP+d1muCYpQVKZVYYCFoQ2R8NIRSECAyEjDSzqDQQFt3IyigyY0TBKSSZ4v6pdETRDwpZTcWhFJFUsEWaa7UcY8J0tM3Vtne7tz/OHfO+927vc+45L/T5773nPt/nfM+5P8557quoAFHALGAFsBy4AagGFHAZ6AHOAm1KM16J/MqXUBQwB9gAPAPcBRTipkLJqeFkCPAz8A7wqdKM+uqLs6nYzHPAK8BVpE2UlQBGgHrgbR/mnExFAbXAV8DVrloYcwPAA0pz0kXIdlSnehCwGzgJXIOfy1hhBudEFLDHVciKKEABTcBDmfGqALfeCyvWw9JauO42mFtj2kYGoe8cdH0Lv3wJna0QhSkJzKx9DDysNJFtH/OY2g9sS8UqBXduhnWvwrXLZGIXO6DldfjpMESpvkdAo9Jss+2jlakoYBPwIaWXbc1ieKTJzFAeOlvh0CYY7C1tCYGtSnPIRk5sKgpYBJwHZicaFq+Ep5ph/vU2edMM9MDB+6C3vbSlCNykNCnH02HzoDhAqaEFS2F7i7shMBrbW4xmktnAfhsp0UxFAbcAHVw5CIUqqPsOblxlk6883adh7z0QJhYbIbBMaf6QSEhn6tnUuavr/BsCo7m6rvRoIe6DCKmpRxO/qubC2l3SHPas3WVyzNSHGShrKr70qhMHb98A8xZKc9gzb6HJkaQ67ktZJDN1R+rI8vsl2m5k50j3JQOJqZtT5y25W6LtRjpHIe5LWSSm5qeOLBBpu5Gdo0YSKjGVXnsVZkm03cjOIVoHSkwNpI6EExJtN7Jz9EtCJab6mNqtxtJ/SrTdSOcIgS5JqMTUGUqn/fwPEm03snO0SUIlpn5LnXfmiETbjXSOEaX5SxJa1pTSXIYSsbbPYPiStHv2DF8yOZIck4ZLl0lfJ36Nj8DxemkOe47XmxxXZAQ+kYZLTR0B/k0cObXXrKh9033aaCeJMAUeEVJTRyndpoTj8MFGGLogzVWeoQtGM0zVOE8onfFqmQaRqbgW15xq6O+CA+vMrtWVgR6j1d9V2jICNNhI2ex8D8YJkvS2w7urTJ0hL52tRiO9lQf4B4tLD+xMfQMMZ7YM9kLDGmjaYipEUi52mJiGNVlFF4AxYJ/SWC1hbKtJu4EXgTnTK3qp+01SBJYojdWNa2tqEdANVNnE5WQCOKw0W20DrcrO8Yh9FCesNBHwRp7APLX0PQi3AA6EQLPSWNygU1ibUppzmMf7jDeDIyHm3s1F3q8eO6ncJTgBfKE0v+YVyGVKac4Cn1MZYxHwkotA7u9TwAv4vwSLwPtK87uLSG5TStMFvId5QfpiAsdZAreZAniNrKVTPkaBt5Smz1XIyZTSDALP48fYIPCmBx3nmQJoxHwRcXl3jQJPK12yZ8uJl/9RRAErgR8p/X4lIwS+V5paH30BPzOF0rRjHhp5/gMxATzhox+TeDEV8zLwt2XMGNAQv/e84c1UfD9swe4RP4QZDK/4nCmU5ihmFS8xNgY8HpfgvOLVVMwOyte8x4GjSttt06V4NxWP/EbMkmc6isCTvnNPUomZQmlOAfvIfhqOAnW2W3QbKmIqZifQSXLRO455JzVWMG/lTClNEVhP8qFRBDZXKucklZwplKYTeAxjbBTYoTQeKp//A6KAB6PAviqUl/8Ao5hbiQH3QNUAAAAASUVORK5CYII=" />
+  </defs>
+  <path
+     style="fill:#ff0000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 19.436192,0.73621937 c 7.412131,-0.009758 13.298557,5.63186133 13.32557,12.88383863 0.0388,10.417054 -13.32557,25.546813 -13.32557,25.546813 0,0 -12.8019109,-15.239741 -12.8102176,-25.694056 C 6.6202998,6.3311361 12.024061,0.74597734 19.436192,0.73621937 Z"
+     id="path1673"
+     sodipodi:nodetypes="zscsz" />
+  <circle
+     style="fill:#ffffff;stroke-width:0.880503"
+     id="path5552"
+     cx="19.436192"
+     cy="13.767302"
+     r="10.307072" />
+</svg>
